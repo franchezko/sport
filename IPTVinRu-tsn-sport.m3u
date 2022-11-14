@@ -1,175 +1,203 @@
-#EXTM3U x-tvg-url="http://sh3304149.c.had.su/epg/epg.zip" url-tvg="https://iptvx.site/epg.xml.gz,https://epg.sky-high.fun/epgnew/epg_full.xml,http://sh3304149.c.had.su/epg/xmltv.xml.gz"  m3uautoload=1 cache=2000 deinterlace=1
-#EXTINF:-1 tvg-logo="http://s1.hostingkartinok.com/uploads/images/2021/09/6aa9cadebedaac4d2527b8ed8f1c0017.png",-tsn-sport 18.08 04:47 iptvin.ru channels 86 
-https://download.ru/g/VIUYdZ3S/ByCyI8cJ1wo7CgZNBkg8Dw/1660645413#.mp4
+#EXTM3U x-tvg-url="http://sh3304149.c.had.su/epg/epg.zip" url-tvg="https://epgtut.tk/epg.xml.gz,https://epg.sky-high.fun/epgnew/epg_full.xml,http://sh3304149.c.had.su/epg/xmltv.xml.gz"  m3uautoload=1 cache=2000 deinterlace=1
+#EXTINF:-1 tvg-logo="http://s1.hostingkartinok.com/uploads/images/2021/09/6aa9cadebedaac4d2527b8ed8f1c0017.png",-tsn-sport 13.11 15:12 iptvin.ru channels 100 
+http://sh3304149.c.had.su/iptvin.ru.mp4
 #EXTINF:-1 tvg-logo="http://only4.tv/ch/5511.png" logo="https://www.astro-com.my/wp-content/uploads/2016/01/Astro-Setanta-Sports-HD-Ch839.png" channelId="665" tvg-name="Setanta Sports Ukraine" tvg-id="setanta-ua",Setanta Sports Ukraine HD
-http://srv-3-streaming.iptvin.site:8080/setantaua/index.m3u8?token=b1e825c1747e57da068ae6e7588c0074ea9b13f2-4705451640-1660958597-1660915397
+http://srv-3-streaming.iptvin.site:8080/setantaua/index.m3u8?token=724ce2bf7c4585761ce265028083507305bf2d4b-4705451640-1668478773-1668435573
 #EXTINF:-1 tvg-logo="http://only4.tv/ch/6268.png" logo="http://s1.hostingkartinok.com/uploads/images/2022/06/078c4b17cc211d76eb797194c4b8a0b3.png" channelId="3045" tvg-name="Setanta Sports+ Ukraine" tvg-id="setanta-plus-ua",Setanta Sports+ Ukraine HD
-http://srv-4-streaming.iptvin.site:8080/setantauaplus/video.m3u8?token=45118d7f1e1750078c3dcf5abe78ef44d5fcd0b1-4705451640-1660958597-1660915397
+http://srv-1-streaming.iptvin.site:8080/setantauaplus/video.m3u8?token=49b30c4ee194c15a43a38d4b9e30be8f36fe2076-4705451640-1668478773-1668435573
 #EXTINF:-1 tvg-logo="http://only4.tv/ch/5509.png" logo="https://s1.hostingkartinok.com/uploads/images/2022/06/938d5b25e6e89631175a7c77e3f36918.png" channelId="4848" tvg-name="Setanta Sports 1" tvg-id="setanta-sports",Setanta Sports 1 HD
-http://srv-6-streaming.iptvin.site:8080/satanta1ru/video.m3u8?token=a949af78db528d20d9cdbdc4b3e80a5d3235204d-4705451640-1660958597-1660915397
+http://srv-6-streaming.iptvin.site:8080/satanta1ru/video.m3u8?token=813614c0a4294842fc72fb85076003d5885ec703-4705451640-1668478773-1668435573
 #EXTINF:-1 tvg-logo="http://only4.tv/ch/5510.png" logo="https://s1.hostingkartinok.com/uploads/images/2022/06/c1eb2dd0be9de9c5fa45b272e63b9fbe.png" channelId="4849" tvg-name="Setanta Sports 2" tvg-id="setanta-sports-plus",Setanta Sports 2 HD
-http://srv-2-streaming.iptvin.site:8080/setanta2ru/video.m3u8?token=cf04dc41bdfa75acdb04651177c05e37892dc3f9-4705451640-1660958597-1660915397
-#EXTINF:-1 tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/05/b96a1ebd3a39e90f3b40b475e30e18ac.png" logo="http://s1.hostingkartinok.com/uploads/images/2022/05/c9d3cd9eb4a3da2421dadd094ce72f0b.png" channelId="-1" tvg-id="setanta-sports",Setanta Sports 1 Georgia HD
-http://srv-2-streaming.iptvin.site:8080/setanta_georgia/video.m3u8?token=4b5d0c12d1fa2f9425576017c9cfe37f105a3e63-4705451640-1660958597-1660915397
-#EXTINF:-1 tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/05/873a5041351e9abdcd668a8ed9feb471.png" logo="http://s1.hostingkartinok.com/uploads/images/2022/05/7b36859a554ae3d44c051731b8a39687.png" channelId="-1" tvg-id="setanta-sports-plus",Setanta Sports 2 Georgia HD
-http://srv-4-streaming.iptvin.site:8080/setanta_sports_plus_georgia/video.m3u8?token=886d8c1cebff20b0d0cc8433b06cd0bbe20b8463-4705451640-1660958597-1660915397
+http://srv-2-streaming.iptvin.site:8080/setanta2ru/video.m3u8?token=10d1265e760e411778490817fdd652014ab79332-4705451640-1668478773-1668435573
+#EXTINF:-1,Setanta Sports Lietuva HD
+http://srv-2-streaming.iptvin.site:8080/setanta1lv/video.m3u8?token=f11a9d8ca15667e3ec2d5a99fa23507f8f99c6cc-4705451640-1668478773-1668435573
+#EXTINF:-1,Setanta Sports Moldova HD
+http://srv-3-streaming.iptvin.site:8080/setanta_moldova/video.m3u8?token=e7186d3deda91956c731b15dff268ec4aa60edf0-4705451640-1668478773-1668435573
 #EXTINF:-1 tvg-logo="https://s3.beetv.kz/rosing-beelinekz-production/14325e495cd8a53ca3c1_250x250c.jpg" logo="https://runigma.com.ua/EPG/picons/Setanta%20Qazaqstan.png" channelId="4841" tvg-id="setanta-kz",Setanta Qazaqstan HD
-http://srv-4-streaming.iptvin.site:8080/setanta_qas/video.m3u8?token=63ed48046a8319ae1f5d38c5b0e4e12f0eef2c32-4705451640-1660958597-1660915397
+http://srv-4-streaming.iptvin.site:8080/setanta_qas/video.m3u8?token=fadf6780497ec35d5d3de461a669073a9e71f65c-4705451640-1668478773-1668435573
 #EXTINF:-1 tvg-logo="http://only4.tv/ch/1305.png" logo="https://runigma.com.ua/EPG/png/360e/1_0_16_519_D_70_1680000_0_0_0.png" channelId="553" tvg-id="match-football1",Матч! Футбол 1
-http://srv-3-streaming.iptvin.site:8080/football1_rus/index.m3u8?token=eb674343ea61ee54b972a2054b4ec9987cfd268e-4705451640-1660958597-1660915397
+http://srv-3-streaming.iptvin.site:8080/football1_rus/index.m3u8?token=04a202e6b4ca4234b8fde962484b026a0e481a6a-4705451640-1668478773-1668435573
 #EXTINF:-1 tvg-logo="http://only4.tv/ch/14105.png" logo="https://runigma.com.ua/EPG/png/360e/1_0_19_3719_E_70_1680000_0_0_0.png" channelId="553" tvg-id="match-football1",Матч! Футбол 1 HD
-http://srv-4-streaming.iptvin.site:8080/football1hd/video.m3u8?token=581696e79709afa9bd09c9f8d8d15cc3dd5c9b04-4705451640-1660958597-1660915397
+http://srv-7-streaming.iptvin.site:8080/football1hd/index.m3u8?token=1f663c508c484e55607df888ef5edf429916f7d6-4705451640-1668478773-1668435573
 #EXTINF:-1 tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/05/69edf6e78519574ecc43a1e3d172706f.png" logo="https://runigma.com.ua/EPG/png/360e/1_0_16_51A_D_70_1680000_0_0_0.png" channelId="554" tvg-id="match-football2",Матч! Футбол 2
-http://srv-3-streaming.iptvin.site:8080/football2_rus/index.m3u8?token=21640610cc50a39a55e99dcccd37b603dc644fec-4705451640-1660958597-1660915397
+http://srv-3-streaming.iptvin.site:8080/football2_rus/index.m3u8?token=73825cb2bb9e0e21ea6466052e0538c49575c963-4705451640-1668478773-1668435573
 #EXTINF:-1 tvg-logo="http://only4.tv/ch/1401.png" logo="https://runigma.com.ua/EPG/png/360e/1_0_19_579_E_70_1680000_0_0_0.png" channelId="554" tvg-id="match-football2",Матч! Футбол 2 HD
-http://srv-3-streaming.iptvin.site:8080/football_2_hd/video.m3u8?token=8f68929e7e65b54e96cd294790c6d7cf1df71a16-4705451640-1660958597-1660915397
+http://srv-3-streaming.iptvin.site:8080/football_2_hd/video.m3u8?token=4aba50915b4ed4a9fec8b467218a8a856429ec30-4705451640-1668478773-1668435573
 #EXTINF:-1 tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/05/96050371f8ff6bdeba834209e420e551.png" logo="https://runigma.com.ua/EPG/png/360e/1_0_16_51B_D_70_1680000_0_0_0.png" channelId="2831" tvg-id="match-football3",Матч! Футбол 3
-http://srv-3-streaming.iptvin.site:8080/football3_rus/index.m3u8?token=d368bc5d9a935dc872b1308c2951c1ba6033f53d-4705451640-1660958597-1660915397
+http://srv-3-streaming.iptvin.site:8080/football3_rus/index.m3u8?token=e0b969f20d5638af3afcb9198bea85e01669c48a-4705451640-1668478773-1668435573
 #EXTINF:-1 tvg-logo="http://only4.tv/ch/1402.png" logo="https://runigma.com.ua/EPG/png/360e/1_0_19_57A_E_70_1680000_0_0_0.png" channelId="2831" tvg-id="match-football3",Матч! Футбол 3 HD
-http://srv-5-streaming.iptvin.site:34768/football3_hd/video.m3u8?token=fadfce47bfdeacfc03f38d6b1ed5268041d38906-4705451640-1660958597-1660915397
+http://srv-5-streaming.iptvin.site:34768/football3_hd/video.m3u8?token=aec9998b7821396a1b2b7fa01b3b62d0d51a747f-4705451640-1668478773-1668435573
 #EXTINF:-1 tvg-logo="https://static.tildacdn.com/tild6262-3465-4632-b330-653339383363/199407587.png" channelId="919" tvg-id="football-ru",Футбол HD
-http://srv-3-streaming.iptvin.site:8080/futrus/video.m3u8?token=3a7638d5747243c2e1c6f8e49164e7bc71fce522-4705451640-1660958597-1660915397
+http://srv-3-streaming.iptvin.site:8080/futrus/video.m3u8?token=9a79e6368f29ba2b3bd820baa363fe3031cac1c3-4705451640-1668478773-1668435573
 #EXTINF:-1 tvg-logo="http://s8.hostingkartinok.com/uploads/images/2021/03/04e8e582ad00f9338894ad7ca6fb6543.png" logo="http://s8.hostingkartinok.com/uploads/images/2021/03/d35208ae6686ffe4b5851f6bb7081b21.png" channelId="-1" tvg-id="footbolny",Футбольный HD
-http://158.101.197.217:2134/channel/n3fb3760e/index.m3u8?q=f34b3d2dc463990f4fd3e79b5c5fe4a5
+http://iptvin.ddns.net:2134/channel/n3fb3760e/index.m3u8?q=83be5cbd678610369ddd08d1b084e60c
 #EXTINF:-1 tvg-logo="https://tv.nalench.com/uploads/screenshots/match_premier.png" logo="https://img15.lostpic.net/2019/09/10/eab7643c537e4bc0317379b07e0ded74.png" channelId="277" tvg-id="match-premier",Матч! Премьер
-http://srv-5-streaming.iptvin.site:34768/match_p/video.m3u8?token=202709b62bb7017243e8f04b5216974915213e5c-4705451640-1660958597-1660915397
+http://srv-5-streaming.iptvin.site:34768/match_p/video.m3u8?token=c763a240d07dad7bb6be07a9effad505b875755f-4705451640-1668478773-1668435573
 #EXTINF:-1 tvg-logo="http://only4.tv/ch/1403.png" logo="http://s1.hostingkartinok.com/uploads/images/2022/03/a2a723156dc6caf79c8a206618e08bbd.png" channelId="277" tvg-id="match-premier",Матч! Премьер HD
-http://srv-7-streaming.iptvin.site:8080/match_p_hd/video.m3u8?token=7ded87ef9541c1cb33169bdef7753e2ea112b7fb-4705451640-1660958597-1660915397
+http://srv-7-streaming.iptvin.site:8080/match_p_hd/video.m3u8?token=209046528793d6c385969be43d3be1cb784efc29-4705451640-1668478773-1668435573
 #EXTINF:-1 tvg-logo="http://only4.tv/ch/1403.png" logo="http://s1.hostingkartinok.com/uploads/images/2022/03/a2a723156dc6caf79c8a206618e08bbd.png" channelId="277" tvg-id="match-premier",Матч! Премьер HD
-http://srv-3-streaming.iptvin.site:8080/matchp/video.m3u8?token=1cc0086482bdba3276c81ea2d0f6d03dbb4cfa12-4705451640-1660958597-1660915397
+http://srv-3-streaming.iptvin.site:8080/matchp/video.m3u8?token=e207585614951d30f817c820e2719b7a478ada75-4705451640-1668478773-1668435573
 #EXTINF:-1 tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/05/afab83b2b999a9fc378e7c70b7fc8a8b.png" logo="https://runigma.com.ua/EPG/png/360e/1_0_16_3EA_A_70_1680000_0_0_0.png" channelId="4" tvg-id="match-tv",Матч!
-http://srv-2-streaming.iptvin.site:8080/match_sd/index.m3u8?token=2412ff79c70f364bf75011e01d47691b720e7dab-4705451640-1660958597-1660915397
+http://srv-2-streaming.iptvin.site:8080/match_sd/index.m3u8?token=dccf40dba4cca893182a89066e85bb96d28bb463-4705451640-1668478773-1668435573
 #EXTINF:-1 tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/05/5bfde97e9057b0ccebd05c7f40a350b8.png" logo="https://runigma.com.ua/EPG/png/360e/1_0_19_89C_16_70_1680000_0_0_0.png" channelId="4" tvg-id="match-tv",Матч! HD
-http://srv-6-streaming.iptvin.site:8080/matchhd/video.m3u8?token=cc4913a29d6dd3069c9e0e08d16660ee133d31e3-4705451640-1660958597-1660915397
+http://srv-6-streaming.iptvin.site:8080/matchhd/video.m3u8?token=e62d2524010a8a69fda441e47da4b5ae95e843ff-4705451640-1668478773-1668435573
 #EXTINF:-1 tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/05/5bfde97e9057b0ccebd05c7f40a350b8.png" logo="https://runigma.com.ua/EPG/png/360e/1_0_19_89C_16_70_1680000_0_0_0.png" channelId="4" tvg-id="match-tv",Матч! HD
-http://srv-4-streaming.iptvin.site:8080/match_fhd/video.m3u8?token=c40e80968fb84fb16d3f92470583c945d431d31a-4705451640-1660958597-1660915397
+http://srv-1-streaming.iptvin.site:8080/match_fhd/video.m3u8?token=aba413a9f70925ccfd32fa20e79def462f8bbf2e-4705451640-1668478773-1668435573
 #EXTINF:-1 tvg-logo="http://only4.tv/ch/0215.png" logo="https://runigma.com.ua/EPG/png/360e/1_0_19_2F46_C_70_1680000_0_0_0.png" channelId="569" tvg-id="match-igra",Матч! Игра HD
-http://srv-6-streaming.iptvin.site:8080/matchgamehd/video.m3u8?token=e1cf6909422ba48191ce7444f2a5b2aace2f6100-4705451640-1660958597-1660915397
+http://srv-6-streaming.iptvin.site:8080/matchgamehd/video.m3u8?token=c9a71096fb4856cd09c862557f3574b895340d9f-4705451640-1668478773-1668435573
 #EXTINF:-1 tvg-logo="http://only4.tv/ch/12104.png" logo="https://runigma.com.ua/EPG/png/360e/1_0_19_2F48_C_70_1680000_0_0_0.png" channelId="85" tvg-id="match-arena",Матч! Арена HD
-http://srv-6-streaming.iptvin.site:8080/matcharenahd/video.m3u8?token=99b18f19423587dc8d5f1584a08500e6c48143e2-4705451640-1660958597-1660915397
+http://srv-6-streaming.iptvin.site:8080/matcharenahd/video.m3u8?token=75534c2644bb5b41f7b1cedf10d91a0d594bdd65-4705451640-1668478773-1668435573
 #EXTINF:-1 tvg-logo="http://s8.hostingkartinok.com/uploads/images/2021/03/842c7544fb005dad50c9225c8fe6e9bf.png" logo="http://s8.hostingkartinok.com/uploads/images/2021/03/f3bfd54afc6dc4e4e7ec1b271e7e734f.png" channelId="84" tvg-id="match-nash-sport",Матч! Страна HD
-https://bl.uma.media/live/291661/HLS/4614144_3,2883584_2,1153024_1/1613109268/2fb2de98a984b4b86bc2cdd980da3430/playlist.m3u8
+http://srv-2-streaming.iptvin.site:8080/match_strana/video.m3u8?token=3b8593f56157811b8415811e20101b1037fc1b51-4705451640-1668478773-1668435573
 #EXTINF:-1 tvg-logo="https://tv.nalench.com/uploads/screenshots/match_planeta.png" logo="https://runigma.com.ua/EPG/png/360e/1_0_16_70_1_70_1680000_0_0_0.png" channelId="447" tvg-id="match-planeta",Матч! Планета HD
-http://srv-3-streaming.iptvin.site:8080/MATCHPLANETA_HD/video.m3u8?token=d52506c31b0f317281ed5ce0cb1638c01a365972-4705451640-1660958597-1660915397
+http://srv-3-streaming.iptvin.site:8080/MATCHPLANETA_HD/video.m3u8?token=aa38c5667fc9c00f0fdf35bcaf80f020b381f69e-4705451640-1668478773-1668435573
+#EXTINF:-1 tvg-logo="http://s8.hostingkartinok.com/uploads/images/2021/03/f7f8145e13fa02b8f16debcdb8372fc7.png" logo="https://antifriz.tv/storage/images/pack_logos/51de7a32b761165b4e7ac15866b2af76.png" channelId="-1" tvg-id="sportivny",Спортивный HD
+http://srv-2-streaming.iptvin.site:8080/sportivnyj_hd/video.m3u8?token=3279062693bba806e8935c5b133a22550787f71c-4705451640-1668478773-1668435573
 #EXTINF:-1 tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00367.png" channelId="3442" tvg-id="trace-sport-stars",Trace Sport Stars HD
-http://srv-6-streaming.iptvin.site:8080/tracesport/video.m3u8?token=b3cd9e711bed6df0a7d998b3d1dff35ea5b2bc2f-4705451640-1660958597-1660915397
+http://srv-6-streaming.iptvin.site:8080/tracesport/video.m3u8?token=a8b9338589ef2d643a6bfb53833a8750f4ada7b0-4705451640-1668478773-1668435573
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1299283321982128129/PV-kaNcA_200x200.jpg" logo="https://img15.lostpic.net/2020/02/05/729613132cdd7433d9d3cbf6e61b578c.png" channelId="3150" tvg-id="xsport-ua",XSPORT HD
-http://srv-7-streaming.iptvin.site:8080/xsport_hd/video.m3u8?token=ba5d1ca34ac80d8e4075e036863b8551eb70d8b5-4705451640-1660958597-1660915397
-#EXTINF:-1 tvg-logo="http://only4.tv/ch/5586.png" logo="https://img16.lostpic.net/2019/12/03/57ecd03df02804899fb96d13df44dae3.png" channelId="1585" tvg-id="tvplay-sports",TV3 Sport HD
-http://srv-2-streaming.iptvin.site:8080/tv3_sport_hd/index.m3u8?token=adcea2ede5568a47b9ba6ff50a4384c1d5226e4a-4705451640-1660958597-1660915397
-#EXTINF:-1 tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/05/7147f40fcb04ee4d091bdb4f01f87e63.png" logo="https://otv.one/uploads/tv_image/%D0%91%D0%B5%D0%BB%D0%B0%D1%80%D1%83%D1%81%D1%8C-5-hd.png" channelId="1511" tvg-id="belarus5",Беларусь 5
-http://srv-5-streaming.iptvin.site:34768/bel5sd/video.m3u8?token=3aeefcaa16fb4e88b32da0969cbcff8ed6f728b9-4705451640-1660958597-1660915397
-#EXTINF:-1 tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/05/501fc4f6a8b41539515d10829827aeea.png" logo="https://img16.lostpic.net/2019/09/17/94644d5d6669b14a1bcd18cfd12ce44d.png" channelId="1511" tvg-id="belarus5",Беларусь 5 HD
-http://srv-3-streaming.iptvin.site:8080/bel5_hd/video.m3u8?token=b8b41bb1008b73994ccab84346af45af9b918481-4705451640-1660958597-1660915397
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-la-liga-za.png" logo="http://s1.hostingkartinok.com/uploads/images/2021/10/b6a17c514abf3fc17b705655e80823e8.png" channelId="-1",SuperSport LaLiga HD
-http://srv-5-streaming.iptvin.site:34768/SuperSport_LaLiga_HD/video.m3u8?token=97b7034ec674c56d95afb5011c08f51e2db8aa9b-4705451640-1660958597-1660915397
-#EXTINF:-1 tvg-logo="http://only4.tv/ch/0162.png" logo="http://www.poverkhnost.tv/exchange/press/sport1engl.png" channelId="748" tvg-id="sport1-ua",Спорт 1
-http://srv-6-streaming.iptvin.site:8080/Sport1/video.m3u8?token=d052b094966e9efa8f57c079a3b853c6937833ce-4705451640-1660958597-1660915397
-#EXTINF:-1 tvg-logo="http://only4.tv/ch/5569.png" logo="http://www.poverkhnost.tv/exchange/press/sport2engl.png" channelId="749" tvg-id="sport2-ua",Спорт 2
-http://srv-6-streaming.iptvin.site:8080/Sport2/video.m3u8?token=43fe4b5378ab1d866257e3f559cc4eb884708968-4705451640-1660958597-1660915397
-#EXTINF:-1 tvg-logo="https://ini.net.ua/wp-content/uploads/channels/sport-1-baltic-online.png" logo="https://img14.lostpic.net/2018/12/12/c20485239939ea43bcd71046d23b7ac8.png" channelId="-1" tvg-id="sport1-baltic",Sport 1 Baltic
-http://srv-7-streaming.iptvin.site:8080/sport1baltic/video.m3u8?token=ca7edec12c6d500cb05af841c4622318ed497545-4705451640-1660958597-1660915397
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/766257175597576192/vzFwXwps_200x200.jpg" logo="http://kokfights.tv/img/kok-light.png" channelId="-1",KOK Fights TV
-https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.sports.kz/upload/2015-02/450_54cf630168b9e.jpg" logo="http://tv.ontivi.net/img/kazsport.png" channelId="2524" tvg-id="kazsport",Qazsport
-http://92.46.127.146:8080/qazsport/index.m3u8
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/9JbL4wG9IuUMDSgY_GTqtR5etqFGNCoShFx7joD-Ucxz0WZojIuwTDscNxQeekgqAzhw-9aLRg=s220-c-k-c0x00ffffff-no-rj?.png" logo="http://s1.hostingkartinok.com/uploads/images/2022/04/e947510b5738ebb4b0c4bc519fb92235.png" channelId="-1",INSPORT HD
-http://srv-5-streaming.iptvin.site:34768/insport_hd/video.m3u8?token=3dab895bafbd3664e2055c0d6ea6a2f90741e258-4705451640-1660958597-1660915397
-#EXTINF:-1 tvg-logo="https://worldsoccertalk.com/wp-content/uploads/2019/08/bein-sports-laliga.jpg" logo="https://i116.fastpic.org/big/2021/1220/e2/ae3a88c1418f9d7c3ac3f307e14711e2.png" channelId="-1",beIN LaLiga
-http://93.152.174.144:4000/play/beinlaliga/index.m3u8
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/UUUBRjUs2lBdKGgtOfsHifIXscTWf8HVf5xm0qUQsHPTDyGWqqKivQUmIKopoGYRIlU7W26lGA=s220-c-k-c0x00ffffff-no-rj?.png" logo="https://i.skyrock.net/1681/37851681/pics/1663813378.gif" channelId="-1",FC_Barcelona HD
-http://srv-5-streaming.iptvin.site:34768/FC_Barcelona/video.m3u8?token=05f514a8b93084ba8f4ce67d712b1a59e4ba8e25-4705451640-1660958597-1660915397
-#EXTINF:-1 tvg-logo="http://only4.tv/ch/5531.png" logo="https://antifriz.tv/storage/images/channel_logos/motorsport-hd.png" channelId="3383" tvg-id="motorsportv-tv",Моторспорт ТВ HD
-http://srv-5-streaming.iptvin.site:34768/motorsport_hd/video.m3u8?token=05062056c0df1a0239b0dd947dbdc9d9e6a6faa4-4705451640-1660958597-1660915397
-#EXTINF:-1,Motosports GMC HD
-http://srv-1-streaming.iptvin.site:8080/Motosports_GMC_HD/video.m3u8?token=b69c7c5cfa33fa084a35edc337a82f4e36e9c8a0-4705451640-1660958597-1660915397
-#EXTINF:-1 tvg-logo="http://only4.tv/ch/5568.png" logo="http://s1.hostingkartinok.com/uploads/images/2022/03/b130a25ae0694fbc209ee245fd101e7a.png" channelId="1383" tvg-name="Viasat Sport" tvg-id="viasat-sport",Viasat Sport HD
-http://srv-5-streaming.iptvin.site:34768/VIASATSPORT/video.m3u8?token=79fc5d35297051ff51a40a4de84b4bf3716c8178-4705451640-1660958597-1660915397
-#EXTINF:-1 tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/05/ed8ce5ce448db68ae31f661736f0b556.png" logo="http://teledays.net/images/extreme-sports.png" channelId="156" tvg-id="extreme-sports",Extreme Sports Channel
-http://srv-5-streaming.iptvin.site:34768/extreme_sports/video.m3u8?token=846605a7ac4a7cf67aac5fd9142b093993e5d019-4705451640-1660958597-1660915397
-#EXTINF:-1 tvg-logo="http://only4.tv/ch/6261.png" logo="https://runigma.com.ua/EPG/picons/%D0%A1%D1%82%D0%B0%D1%80%D1%82_.png" channelId="631" tvg-id="start",Старт HD
-http://srv-6-streaming.iptvin.site:8080/start_hd/index.m3u8?token=bce7bcc67f853e8fa17e998f41f52a19eec336a3-4705451640-1660958597-1660915397
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/tzUglmOW_nBPDpB-oDe_iCJZDdxjbj3f7tMZBID_uW1hmzsowTjdF-dvRmK7TYm8C7N3gBqG=s220-c-k-c0x00ffffff-no-rj?.png" logo="http://s1.hostingkartinok.com/uploads/images/2022/06/40ea3dcd7da2d9c57c8bda948fcd837a.png" channelId="-1",Старт Live HD
-http://srv-2-streaming.iptvin.site:8080/Start_Live_HD/index.m3u8?token=00611585003ad43bf2cc24a0bbd211888e26bf78-4705451640-1660958597-1660915397
-#EXTINF:-1 tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/05/5969458deae30619c163cec8654ef402.png" logo="http://s8.hostingkartinok.com/uploads/images/2021/02/b5cd566b95e57a85de08d98703ddafac.png" channelId="933" tvg-id="eurosport1-cee",Eurosport 1 CEE
-http://srv-5-streaming.iptvin.site:34768/Eurosport1/video.m3u8?token=c1d32bc8fbc676f7a9a51f19bc4d3c097b2abfcf-4705451640-1660958597-1660915397
-#EXTINF:-1 tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/05/379e35160e2f64024f9facb67621cfbc.png" logo="https://i115.fastpic.org/big/2021/0801/c0/3579110a4b4227dd07c1db5870bd79c0.png" channelId="933" tvg-id="eurosport1-cee",Eurosport 1 HD CEE
-http://srv-5-streaming.iptvin.site:34768/eurosport1_hd_cee/tracks-v1a1/mono.m3u8?token=a41b2cca1371464f73cbe9c3bf7a26ff68894f1b-4705451640-1660958597-1660915397
-#EXTINF:-1 tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/05/2c84a67c0936f946273935520ae153048.png" logo="https://i115.fastpic.org/big/2021/0801/62/f62e5f80cd5f0d477953fe1879ef2a62.png" channelId="933" tvg-id="eurosport1-cee",Eurosport 2 HD CEE
-http://srv-5-streaming.iptvin.site:34768/eurosport2_hd_cee/tracks-v1a1/mono.m3u8?token=82b9846139062b52e2a870086cbd2663e2d2592a-4705451640-1660958597-1660915397
-#EXTINF:-1 tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/07/3d26ecd12143df8065d16c047ebe8818.png" logo="http://s1.hostingkartinok.com/uploads/images/2022/07/aca4f5954f37c743c5fb196b80bf781c.png" channelId="-1" tvg-id="cmore-hockey",C MORE HOCKEY
-http://srv-2-streaming.iptvin.site:8080/c_more_hockey/video.m3u8?token=78b89907a0eb5247b9e617e34282f8504ca4761a-4705451640-1660958597-1660915397
-#EXTINF:-1 tvg-logo="https://i115.fastpic.org/big/2021/0801/31/5286ab47c27d79f7399bb4443b4b4331.jpg" logo="https://i115.fastpic.org/big/2021/0801/bc/f9db3f1b61916a2ee10ee2c93eac7dbc.png" channelId="-1" tvg-name="Хоккейный" tvg-id="xokkejny",Хоккейный HD
-http://158.101.197.217:2134/channel/n57d8419a/index.m3u8?q=f34b3d2dc463990f4fd3e79b5c5fe4a5
-#EXTINF:-1 tvg-logo="https://i115.fastpic.org/big/2021/0916/6b/d37d56f49ba32e1942b65e840804cc6b.png" logo="https://i115.fastpic.org/big/2021/0916/c5/f00b4b52b4bf948df19c0be713a733c5.png" channelId="80" tvg-id="kxl",KHL
-http://srv-5-streaming.iptvin.site:34768/khl/video.m3u8?token=15489ffe5340a3da8cb31e131c3b70084d816380-4705451640-1660958597-1660915397
-#EXTINF:-1 tvg-logo="https://i115.fastpic.org/big/2021/0916/62/c1dfe0ad14ec54fee86d5cd87d07b462.png" logo="https://i115.fastpic.org/big/2021/0916/87/5742b7531dfc7f9026cd0f7d047e0d87.png" channelId="226" tvg-id="kxl-hd",KHL Prime (50 фпс)
-http://srv-5-streaming.iptvin.site:34768/khl_hd/video.m3u8?token=45f9c972700f3131c946b271552676556477e0bd-4705451640-1660958597-1660915397
-#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/112012/nhl_network_2012.png" logo="http://s1.hostingkartinok.com/uploads/images/2021/10/137015d5b273e193ecf00e2b63d23440.png" channelId="2041",NHL Network HD (60 фпс)
-http://srv-6-streaming.iptvin.site:8080/nhl/video.m3u8?token=5096047cd052486d039442916f8f2552f34afe1a-4705451640-1660958597-1660915397
-#EXTINF:-1 tvg-logo="https://www.crdru.net/b/templates/ottch/mir-basketbola.png" logo="https://runigma.com.ua/EPG/png/360e/1_0_16_52E_D_70_1680000_0_0_0.png" channelId="4516" tvg-id="mir-basketbola",Мир Баскетбола
-http://srv-5-streaming.iptvin.site:34768/MirBasketbola/video.m3u8?token=43294388940dfb2cf5133c777421764f6bb28d88-4705451640-1660958597-1660915397
-#EXTINF:-1 tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/05/37a74e10f578ef805ce9eb89698f5775.png" logo="http://s1.hostingkartinok.com/uploads/images/2022/05/37a74e10f578ef805ce9eb89698f5775.png" channelId="4516" tvg-id="mir-basketbola",Мир Баскетбола HD
-http://46.174.83.66/MirBasketbola/index.m3u8
-#EXTINF:-1 tvg-logo="https://i1.sndcdn.com/avatars-000606546579-e8w59f-t500x500.jpg" logo="http://s1.hostingkartinok.com/uploads/images/2022/06/5b7878bb6c93dcad64d9cb4ca06a4671.png" channelId="81" tvg-id="match-boets",Матч! Боец
-http://srv-5-streaming.iptvin.site:34768/boec/video.m3u8?token=6eebe4a8cc2bced26d3c592f57cd2dcd5d8b34ce-4705451640-1660958597-1660915397
-#EXTINF:-1 tvg-logo="https://i1.sndcdn.com/avatars-000606546579-e8w59f-t500x500.jpg" logo="http://s1.hostingkartinok.com/uploads/images/2022/06/5b7878bb6c93dcad64d9cb4ca06a4671.png" channelId="81" tvg-id="match-boets",Матч! Боец HD
-http://srv-2-streaming.iptvin.site:8080/boec_hd/video.m3u8?token=9c8c0fdcdd01d2b4d92a5078c090fe1fad38ee78-4705451640-1660958597-1660915397
-#EXTINF:-1 tvg-logo="http://only4.tv/ch/422.png" logo="https://runigma.com.ua/EPG/png/360e/1_0_16_1A6_4_70_1680000_0_0_0.png" channelId="1827" tvg-id="box-tv",Бокс ТВ
-http://srv-6-streaming.iptvin.site:8080/boks/video.m3u8?token=0fc8cf23b5b67835a8bb59b8ddd3a34927706810-4705451640-1660958597-1660915397
-#EXTINF:-1 tvg-logo="https://www.rustv.it/data/files/original/458/ufc_tv.png" logo="http://img16.lostpic.net/2019/04/24/f04844db3ecf5c94bafdf36984742b26.png" channelId="4642" tvg-id="ufc" shift="3",UFC ТВ
-http://srv-7-streaming.iptvin.site:8080/UFC/video.m3u8?token=30b17b77a9d6bb9d253ddd3e2732e8b5c28bdc72-4705451640-1660958597-1660915397
-#EXTINF:-1 tvg-logo="https://i116.fastpic.org/big/2022/0201/a8/5ce0c0a1f8d948b07a213278448478a8.png" logo="https://i116.fastpic.org/big/2022/0201/28/647461834277520d9a971e027f861028.png" channelId="4642" tvg-name="UDAR" tvg-id="ufc" shift="3",UDAR HD
-http://srv-6-streaming.iptvin.site:8080/ufchd/video.m3u8?token=985551187b7500f7bf4d6e4756956a143b7b16bb-4705451640-1660958597-1660915397
-#EXTINF:-1 tvg-logo="https://i116.fastpic.org/big/2021/1216/1b/4e3874013598a515a0cfc9e5177da61b.png" logo="https://i116.fastpic.org/big/2021/1216/15/7873532f46b055696ea5db364c164f15.png" channelId="3877" tvg-id="m1global",MMA-TV
-http://srv-4-streaming.iptvin.site:8080/mma/video.m3u8?token=e0cc24fa576347a4c43f93eb1f94978cc20dacaf-4705451640-1660958597-1660915397
-#EXTINF:-1 tvg-logo="https://i116.fastpic.org/big/2021/1216/1b/4e3874013598a515a0cfc9e5177da61b.png" logo="https://i116.fastpic.org/big/2021/1216/15/7873532f46b055696ea5db364c164f15.png" channelId="3877" tvg-id="m1global",MMA-TV HD
-http://srv-4-streaming.iptvin.site:8080/mma_hd/index.m3u8?token=d0fdc52ec27259b1b0c8a766b6d71c282b23126c-4705451640-1660958597-1660915397
-#EXTINF:-1 tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/07/861bc5f6f0b4b4794fc794ce2cf76e75.png" logo="http://s1.hostingkartinok.com/uploads/images/2022/07/29dd68ca3c84ff33cc21fdc600ca080b.png" channelId="-1",MMA Time
-http://srv-7-streaming.iptvin.site:8080/MMa_Time/video.m3u8?token=2e18e21f06eacfe43357f9fed54c66fac9f91887-4705451640-1660958597-1660915397
-#EXTINF:-1 tvg-logo="https://store-images.s-microsoft.com/image/apps.43974.14452996802155313.dc984f77-f6ce-4f15-92d3-11bf5c4cc693.ce683cbb-e6c2-421d-8279-87165f830779" logo="https://i115.fastpic.org/big/2021/0906/58/00756119f8bc06663ccf2df07996a158.png" channelId="-1",Fight Network HD
-https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fight_box_hd.png" logo="https://spiintl.com/data/files/zdjecie/c0/de/c0de4296cb6087762e595bb1387ddf8852d9ecbde582e0e35c7e4af1bfc5e342.png" channelId="2808" tvg-id="fightbox-hd",FightBox HD
-http://srv-5-streaming.iptvin.site:34768/FightBoxhd/video.m3u8?token=5e0eb6305beffa5b03c678a653823c7bd3c93d8b-4705451640-1660958597-1660915397
+http://srv-7-streaming.iptvin.site:8080/xsport_hd/video.m3u8?token=98e1a81e5047a70a8bb62853a03e2ec9cb317086-4705451640-1668478773-1668435573
+#EXTINF:-1 tvg-logo="https://i115.fastpic.org/big/2021/0929/fc/2df8f7fd47bdb876c19abf2d5811c7fc.png" logo="http://s1.hostingkartinok.com/uploads/images/2021/09/8d0371a1ecefd311600c348b11aaafab.png" channelId="-1" tvg-id="xsport-plus-ua",XSPORT+ HD
+http://srv-7-streaming.iptvin.site:8080/xsport_plus_hd/video.m3u8?token=66e57c2bd88b4089923744b288eb8349d1c923ea-4705451640-1668478773-1668435573
 #EXTINF:-1 tvg-logo="https://s3.vcdn.biz/static/f/2458529931/image.jpg" logo="https://runigma.com.ua/EPG/picons/MostVideo.png" channelId="-1" tvg-name="MostVideo.TV" tvg-id="mostvideo",MostvideoTV
 http://w4.mostvideo.tv/tv/ch1.m3u8
+#EXTINF:-1 tvg-logo="http://only4.tv/ch/5586.png" logo="http://epg.it999.ru/img2/6308.png" channelId="4213" tvg-id="tvplay-sports",TV3 Sport HD
+http://srv-2-streaming.iptvin.site:8080/tv3_sport_hd/index.m3u8?token=cabd18d785705eb8c571685d8cca3ff76ce8f01c-4705451640-1668478773-1668435573
+#EXTINF:-1 tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/09/0b7dd3e691a0e5686345c03dde4dd599.png" logo="http://epg.it999.ru/img2/6309.png" channelId="4214" tvg-id="tvplay-sports-plus",Sport 2 LT HD
+http://srv-2-streaming.iptvin.site:8080/Sport2LT_HD/video.m3u8?token=ebff5ca0ba3b31079039ef35a73440e509a23b8f-4705451640-1668478773-1668435573
+#EXTINF:-1 tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/09/4eddccbe2e6e19fc87e7477d4e47946b.png" logo="https://runigma.com.ua/EPG/picons/tv3sport3hd.png" channelId="-1" tvg-name="TV3 Sport 3 HD" tvg-id="tv3-sport-3",Sport 3 LT HD
+http://srv-2-streaming.iptvin.site:8080/Sport3LT_HD/video.m3u8?token=775a6e2eb604d890db1bca7a48d8ae4676059ca7-4705451640-1668478773-1668435573
+#EXTINF:-1 tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/05/7147f40fcb04ee4d091bdb4f01f87e63.png" logo="https://otv.one/uploads/tv_image/%D0%91%D0%B5%D0%BB%D0%B0%D1%80%D1%83%D1%81%D1%8C-5-hd.png" channelId="1511" tvg-id="belarus5",Беларусь 5
+http://srv-5-streaming.iptvin.site:34768/bel5sd/video.m3u8?token=744f5ff75a9f1c83987325cf025277782c29a669-4705451640-1668478773-1668435573
+#EXTINF:-1 tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/05/501fc4f6a8b41539515d10829827aeea.png" logo="https://img16.lostpic.net/2019/09/17/94644d5d6669b14a1bcd18cfd12ce44d.png" channelId="1511" tvg-id="belarus5",Беларусь 5 HD
+http://srv-3-streaming.iptvin.site:8080/bel5_hd/video.m3u8?token=440fb7e63c9cb82376fa48b43c25469429d31bd8-4705451640-1668478773-1668435573
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-la-liga-za.png" logo="http://s1.hostingkartinok.com/uploads/images/2021/10/b6a17c514abf3fc17b705655e80823e8.png" channelId="-1",SuperSport LaLiga HD
+http://srv-5-streaming.iptvin.site:34768/SuperSport_LaLiga_HD/video.m3u8?token=17280b9339bf2f9778155e27503c268610460f6d-4705451640-1668478773-1668435573
+#EXTINF:-1 tvg-logo="http://only4.tv/ch/0162.png" logo="http://www.poverkhnost.tv/exchange/press/sport1engl.png" channelId="748" tvg-id="sport1-ua",Спорт 1
+http://srv-6-streaming.iptvin.site:8080/Sport1/video.m3u8?token=ac18db3edb04d14086fc3a4cabc1f740c716487a-4705451640-1668478773-1668435573
+#EXTINF:-1 tvg-logo="http://only4.tv/ch/5569.png" logo="http://www.poverkhnost.tv/exchange/press/sport2engl.png" channelId="749" tvg-id="sport2-ua",Спорт 2
+http://srv-6-streaming.iptvin.site:8080/Sport2/video.m3u8?token=31abffda115651b3bef8c027fc5738018a535eb1-4705451640-1668478773-1668435573
+#EXTINF:-1 tvg-logo="https://ini.net.ua/wp-content/uploads/channels/sport-1-baltic-online.png" logo="https://img14.lostpic.net/2018/12/12/c20485239939ea43bcd71046d23b7ac8.png" channelId="-1" tvg-id="sport1-baltic",Sport 1 Baltic
+http://srv-7-streaming.iptvin.site:8080/sport1baltic/video.m3u8?token=4504733c80e2c57a6e8b1a1833ae550b168cfe73-4705451640-1668478773-1668435573
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/766257175597576192/vzFwXwps_200x200.jpg" logo="http://kokfights.tv/img/kok-light.png" channelId="-1",KOK Fights TV
+https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i115.fastpic.org/big/2021/0813/f9/da53d0947032be71ffd5ea1de92905f9.png" logo="https://img15.lostpic.net/2019/09/08/12d4e5bc46b2821364977e9205c1f26e.png" channelId="2524" tvg-id="kazsport",Qazsport HD
+http://srv-1-streaming.iptvin.site:8080/QAZSPORT/video.m3u8?token=dbc7ce97ed48df0550b9be6951ec44f45099ca88-4705451640-1668478773-1668435573
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/9JbL4wG9IuUMDSgY_GTqtR5etqFGNCoShFx7joD-Ucxz0WZojIuwTDscNxQeekgqAzhw-9aLRg=s220-c-k-c0x00ffffff-no-rj?.png" logo="http://s1.hostingkartinok.com/uploads/images/2022/04/e947510b5738ebb4b0c4bc519fb92235.png" channelId="-1",INSPORT HD
+http://srv-5-streaming.iptvin.site:34768/insport_hd/video.m3u8?token=c2ede5f2332189ef872289c9ef77c9dee2364da8-4705451640-1668478773-1668435573
+#EXTINF:-1 tvg-logo="https://www.tv-direct.fr/assets/logo/chaines/real-madrid-tv.jpg" logo="https://img-cdn.adrise.tv/acab34c3-453c-456d-9b27-8ec51c48426e.png" channelId="1332",Real Madrid TV
+http://srv-1-streaming.iptvin.site:8080/Real_Madrid_TV/video.m3u8?token=5c11b4b73bc3ffebed8bf1af937ce1e45ec199e7-4705451640-1668478773-1668435573
+#EXTINF:-1 tvg-logo="https://i115.fastpic.org/big/2021/0917/8b/d846c3c3325db72489ef7de334ec348b.png" logo="http://s1.hostingkartinok.com/uploads/images/2021/09/920321570a50a2aefa22b561bf6a2e58.png" channelId="1177" tvg-id="sky-sports-f1",Sky Sports F1 HD
+http://srv-3-streaming.iptvin.site:8080/SkySportsF1_hd/video.m3u8?token=f5326811586e8479eb6bb2c207393a2328f95db2-4705451640-1668478773-1668435573
+#EXTINF:-1 tvg-logo="http://only4.tv/ch/5531.png" logo="https://antifriz.tv/storage/images/channel_logos/motorsport-hd.png" channelId="3383" tvg-id="motorsportv-tv",Моторспорт ТВ HD
+http://srv-5-streaming.iptvin.site:34768/motorsport_hd/video.m3u8?token=397e53a211c56c21a0e15bb9a35942325e148b57-4705451640-1668478773-1668435573
+#EXTINF:-1,Canal+ Moto GP HD
+http://srv-2-streaming.iptvin.site:8080/canal+moto_gp/index.m3u8?token=6b8e5efc4b775b7e4319c7732fca5b35665d8801-4705451640-1668478773-1668435573
+#EXTINF:-1,V Sport Motor HD
+http://srv-7-streaming.iptvin.site:8080/V_Sport_Motor/video.m3u8?token=21fec2373292484285240678316f30bcef3255a3-4705451640-1668478773-1668435573
+#EXTINF:-1,V Sport Football HD
+http://srv-6-streaming.iptvin.site:8080/V_Sport_Football/video.m3u8?token=c9d164c54127c6f487c6385a6126513ed2b86d18-4705451640-1668478773-1668435573
+#EXTINF:-1,V Sport Golf HD
+http://srv-7-streaming.iptvin.site:8080/V_Sport_Golf/video.m3u8?token=9be000e3a42ba790b302828bb98c3bdf688dd398-4705451640-1668478773-1668435573
+#EXTINF:-1 tvg-logo="http://only4.tv/ch/5568.png" logo="http://s1.hostingkartinok.com/uploads/images/2022/03/b130a25ae0694fbc209ee245fd101e7a.png" channelId="1383" tvg-name="Viasat Sport" tvg-id="viasat-sport",Viasat Sport HD
+http://srv-5-streaming.iptvin.site:34768/VIASATSPORT/video.m3u8?token=eac7a91f346b47b244b828e4453d3b38c13a0276-4705451640-1668478773-1668435573
+#EXTINF:-1 tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/05/ed8ce5ce448db68ae31f661736f0b556.png" logo="http://teledays.net/images/extreme-sports.png" channelId="156" tvg-id="extreme-sports",Extreme Sports Channel
+http://srv-5-streaming.iptvin.site:34768/extreme_sports/video.m3u8?token=785ed9c346edbeddafd783633461bf4ed4ed8c9f-4705451640-1668478773-1668435573
+#EXTINF:-1 tvg-logo="http://only4.tv/ch/6261.png" logo="https://runigma.com.ua/EPG/picons/%D0%A1%D1%82%D0%B0%D1%80%D1%82_.png" channelId="631" tvg-id="start",Старт HD
+http://srv-6-streaming.iptvin.site:8080/start_hd/index.m3u8?token=bddebd890436cf24aaa0958f919d3c0e0fd0c7ae-4705451640-1668478773-1668435573
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/tzUglmOW_nBPDpB-oDe_iCJZDdxjbj3f7tMZBID_uW1hmzsowTjdF-dvRmK7TYm8C7N3gBqG=s220-c-k-c0x00ffffff-no-rj?.png" logo="http://s1.hostingkartinok.com/uploads/images/2022/06/40ea3dcd7da2d9c57c8bda948fcd837a.png" channelId="-1",Старт Live HD
+http://srv-2-streaming.iptvin.site:8080/Start_Live_HD/index.m3u8?token=b94224c4316ca542faf9061f7d3e4955f52e4f21-4705451640-1668478773-1668435573
+#EXTINF:-1 tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/05/5969458deae30619c163cec8654ef402.png" logo="http://s8.hostingkartinok.com/uploads/images/2021/02/b5cd566b95e57a85de08d98703ddafac.png" channelId="933" tvg-id="eurosport1-cee",Eurosport 1 CEE
+http://srv-5-streaming.iptvin.site:34768/Eurosport1/video.m3u8?token=9a796294f5723c38a2b07f7dea4baf538413e7a3-4705451640-1668478773-1668435573
+#EXTINF:-1 tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/05/379e35160e2f64024f9facb67621cfbc.png" logo="http://s1.hostingkartinok.com/uploads/images/2021/06/f03204750140d099910ffcc15b89de26.png" channelId="933" tvg-id="eurosport1-cee",Eurosport 1 HD CEE
+http://srv-5-streaming.iptvin.site:34768/eurosport1_hd_cee/tracks-v1a1/mono.m3u8?token=a0a9b2d5bca0c7eefc5e4dfcd28ae6cd09c70895-4705451640-1668478773-1668435573
+#EXTINF:-1 tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/05/2c84a67c0936f946273935520ae153048.png" logo="http://s1.hostingkartinok.com/uploads/images/2021/06/20451635d55ed95e124915d606068cb4.png" channelId="933" tvg-id="eurosport1-cee",Eurosport 2 HD CEE
+http://srv-5-streaming.iptvin.site:34768/eurosport2_hd_cee/tracks-v1a1/mono.m3u8?token=18cd357941e3dd12b39a2d41501d7f468364e853-4705451640-1668478773-1668435573
+#EXTINF:-1 tvg-logo="https://i115.fastpic.org/big/2021/0801/31/5286ab47c27d79f7399bb4443b4b4331.jpg" logo="http://s8.hostingkartinok.com/uploads/images/2021/04/fdf5a3d19175b102af6f6a0063a48815.png" channelId="-1" tvg-name="Хоккейный" tvg-id="xokkejny",Хоккейный HD
+http://iptvin.ddns.net:2134/channel/n57d8419a/index.m3u8?q=83be5cbd678610369ddd08d1b084e60c
+#EXTINF:-1 tvg-logo="https://i115.fastpic.org/big/2021/0916/6b/d37d56f49ba32e1942b65e840804cc6b.png" logo="http://s1.hostingkartinok.com/uploads/images/2021/09/2d6a14e457510412f70808d1f3921fd6.png" channelId="80" tvg-id="kxl",KHL
+http://srv-5-streaming.iptvin.site:34768/khl/video.m3u8?token=8d29022ea9cb1fbb9e5060b904cb15ca8cb98d95-4705451640-1668478773-1668435573
+#EXTINF:-1 tvg-logo="https://i115.fastpic.org/big/2021/0916/62/c1dfe0ad14ec54fee86d5cd87d07b462.png" logo="http://s1.hostingkartinok.com/uploads/images/2021/09/c2cc6917a06db06aa1b2274b84dafa48.png" channelId="226" tvg-id="kxl-hd",KHL Prime (50 фпс)
+http://srv-5-streaming.iptvin.site:34768/khl_hd/video.m3u8?token=568f6c88ff3c8c093aef5d7fc98447cb5460e082-4705451640-1668478773-1668435573
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/112012/nhl_network_2012.png" logo="http://s1.hostingkartinok.com/uploads/images/2021/10/137015d5b273e193ecf00e2b63d23440.png" channelId="2041",NHL Network HD (60 фпс)
+http://srv-6-streaming.iptvin.site:8080/nhl/video.m3u8?token=ab3619a98e23a82c564d4e50cd6273dd501ebdd1-4705451640-1668478773-1668435573
+#EXTINF:-1 tvg-logo="https://www.crdru.net/b/templates/ottch/mir-basketbola.png" logo="https://runigma.com.ua/EPG/png/360e/1_0_16_52E_D_70_1680000_0_0_0.png" channelId="4516" tvg-id="mir-basketbola",Мир Баскетбола
+http://srv-5-streaming.iptvin.site:34768/MirBasketbola/video.m3u8?token=b34604aaefc9a4687bc93b13f1cd0d35ef0e4856-4705451640-1668478773-1668435573
+#EXTINF:-1 tvg-logo="https://i1.sndcdn.com/avatars-000606546579-e8w59f-t500x500.jpg" logo="http://s1.hostingkartinok.com/uploads/images/2022/06/5b7878bb6c93dcad64d9cb4ca06a4671.png" channelId="81" tvg-id="match-boets",Матч! Боец
+http://srv-5-streaming.iptvin.site:34768/boec/video.m3u8?token=1926c4726ab66759437b76b956e493f88ce8b71c-4705451640-1668478773-1668435573
+#EXTINF:-1 tvg-logo="https://i1.sndcdn.com/avatars-000606546579-e8w59f-t500x500.jpg" logo="http://s1.hostingkartinok.com/uploads/images/2022/06/5b7878bb6c93dcad64d9cb4ca06a4671.png" channelId="81" tvg-id="match-boets",Матч! Боец HD
+http://srv-2-streaming.iptvin.site:8080/boec_hd/video.m3u8?token=8f92e4c678fed6378c2fc08aff0660827471a72d-4705451640-1668478773-1668435573
+#EXTINF:-1 tvg-logo="http://only4.tv/ch/422.png" logo="https://runigma.com.ua/EPG/png/360e/1_0_16_1A6_4_70_1680000_0_0_0.png" channelId="1827" tvg-id="box-tv",Бокс ТВ
+http://srv-6-streaming.iptvin.site:8080/boks/video.m3u8?token=2bc86e2dca8c5e444494fa0d1d21b09ba1dc7774-4705451640-1668478773-1668435573
+#EXTINF:-1 tvg-logo="https://www.rustv.it/data/files/original/458/ufc_tv.png" logo="http://img16.lostpic.net/2019/04/24/f04844db3ecf5c94bafdf36984742b26.png" channelId="4642" tvg-id="ufc" shift="3",UFC ТВ
+http://srv-7-streaming.iptvin.site:8080/UFC/video.m3u8?token=5bc440c7730ffde218009fd0c96b7a90ea4320d9-4705451640-1668478773-1668435573
+#EXTINF:-1 tvg-logo="https://i116.fastpic.org/big/2022/0201/a8/5ce0c0a1f8d948b07a213278448478a8.png" logo="http://s1.hostingkartinok.com/uploads/images/2022/02/ac9109f507f576c8cdffde8508ac8b2d.png" channelId="4642" tvg-name="UDAR" tvg-id="ufc" shift="3",UDAR HD
+http://srv-6-streaming.iptvin.site:8080/ufchd/video.m3u8?token=a54e5e9fb1f1bd3cca8db80ac46dff24f8ce8159-4705451640-1668478773-1668435573
+#EXTINF:-1 tvg-logo="https://i116.fastpic.org/big/2021/1216/1b/4e3874013598a515a0cfc9e5177da61b.png" logo="http://s1.hostingkartinok.com/uploads/images/2021/12/f7b9111271a7ddf921e8a7104525471f.png" channelId="3877" tvg-id="m1global",MMA-TV
+http://srv-4-streaming.iptvin.site:8080/mma/video.m3u8?token=d654f01cff48a384a23d344517bfb8e7d077ee11-4705451640-1668478773-1668435573
+#EXTINF:-1 tvg-logo="https://i116.fastpic.org/big/2021/1216/1b/4e3874013598a515a0cfc9e5177da61b.png" logo="http://s1.hostingkartinok.com/uploads/images/2021/12/f7b9111271a7ddf921e8a7104525471f.png" channelId="3877" tvg-id="m1global",MMA-TV HD
+http://srv-4-streaming.iptvin.site:8080/mma_hd/index.m3u8?token=86d753e82b9feb39b6eed26af8f2c7c31f79917b-4705451640-1668478773-1668435573
+#EXTINF:-1 tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/07/861bc5f6f0b4b4794fc794ce2cf76e75.png" logo="http://s1.hostingkartinok.com/uploads/images/2022/07/29dd68ca3c84ff33cc21fdc600ca080b.png" channelId="-1",MMA Time
+http://srv-7-streaming.iptvin.site:8080/MMa_Time/video.m3u8?token=fdce20e96dcbccadb6542a58d4dd848684116cf8-4705451640-1668478773-1668435573
+#EXTINF:-1 tvg-logo="https://store-images.s-microsoft.com/image/apps.43974.14452996802155313.dc984f77-f6ce-4f15-92d3-11bf5c4cc693.ce683cbb-e6c2-421d-8279-87165f830779" logo="http://s1.hostingkartinok.com/uploads/images/2021/09/5c19beb88a9290c1951299658b7a68ff.png" channelId="-1",Fight Network HD
+https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fight_box_hd.png" logo="https://spiintl.com/data/files/zdjecie/c0/de/c0de4296cb6087762e595bb1387ddf8852d9ecbde582e0e35c7e4af1bfc5e342.png" channelId="2808" tvg-id="fightbox-hd",FightBox HD
+http://srv-1-streaming.iptvin.site:8080/FightBox_hd/index.m3u8?token=688d8e820a748788f957b07d0b3bd8bd0fab586e-4705451640-1668478773-1668435573
+#EXTINF:-1 tvg-logo="http://s8.hostingkartinok.com/uploads/images/2021/02/1bcf9e654e4ee10f2abedafa3c05e48c.png" logo="http://s8.hostingkartinok.com/uploads/images/2021/02/54ba2b69192dbab79a8c62254e646271.png" channelId="1578" tvg-name="Arena Sport 1",Arena Sport 1 HD
+http://srv-4-streaming.iptvin.site:8080/Arena_1/video.m3u8?token=31db401b430618f2c0efef726b1db900443c3c6d-4705451640-1668478773-1668435573
+#EXTINF:-1 tvg-logo="http://s8.hostingkartinok.com/uploads/images/2021/02/b87746579eba3e1f74eb03ba41eb43f9.png" logo="http://s8.hostingkartinok.com/uploads/images/2021/02/b22c9fc776e8160289314e6997ff4ffd.png" channelId="1579" tvg-name="Arena Sport 2",Arena Sport 2 HD
+http://srv-1-streaming.iptvin.site:8080/arena_sport_2/video.m3u8?token=c2cdc19d74b3d13a95e065421385c8040f387017-4705451640-1668478773-1668435573
+#EXTINF:-1 tvg-logo="http://s8.hostingkartinok.com/uploads/images/2021/02/4a2102a490bcc6d9f4fe765ce380e5dd.png" logo="http://s8.hostingkartinok.com/uploads/images/2021/02/d7fe20e97e18e7dc9635d07f1a50df35.png" channelId="1580" tvg-name="Arena Sport 3",Arena Sport 3 HD
+http://srv-3-streaming.iptvin.site:8080/Arena_3/video.m3u8?token=688febed13f0fb3fc6da52d98752912d42c396e8-4705451640-1668478773-1668435573
+#EXTINF:-1 tvg-logo="http://s8.hostingkartinok.com/uploads/images/2021/02/fb5c198b50cbcb760954e6056fcc62e7.png" logo="http://s8.hostingkartinok.com/uploads/images/2021/02/2e44092cc4e9b12db8c33b5d8474d0e1.png" channelId="1581" tvg-name="Arena Sport 4",Arena Sport 4 HD
+http://srv-5-streaming.iptvin.site:34768/arena_sport_4/video.m3u8?token=70da4d48a1a1fc48b9046d8739a8286404c415a1-4705451640-1668478773-1668435573
 #EXTINF:-1 tvg-logo="http://s8.hostingkartinok.com/uploads/images/2020/11/3060d0fe08e6be771e305e0f48db7da1.png" logo="http://j-p-g.net/if/2019/05/28/0808884001559076458.png" channelId="-1" tvg-id="daznbar1" shift="3",DAZN Bar 1 HD (Germany)
-http://srv-4-streaming.iptvin.site:8080/dazn1/index.m3u8?token=69b449a2e91762f36a05709063c62a2c6720fe29-4705451640-1660958597-1660915397
+http://srv-4-streaming.iptvin.site:8080/dazn1/index.m3u8?token=24062d2ee59c23c0d25998c2620702c8949101f1-4705451640-1668478773-1668435573
 #EXTINF:-1 tvg-logo="http://s8.hostingkartinok.com/uploads/images/2020/11/584a92e0c1421839f8877471d6d6f74b.png" logo="http://j-p-g.net/if/2019/05/28/0821942001559076458.png" channelId="-1" tvg-id="daznbar2" shift="3",DAZN Bar 2 HD (Germany)
-http://srv-2-streaming.iptvin.site:8080/dazn2/index.m3u8?token=91396b2abadc14f98decadee48ac2071c4199b83-4705451640-1660958597-1660915397
-#EXTINF:-1,RMC Sport HD 1
-http://srv-1-streaming.iptvin.site:8080/RMC-Sport-HD1/video.m3u8?token=2c630b497038ac31e07ee839707bd6c2c0036e02-4705451640-1660958597-1660915397
+http://srv-2-streaming.iptvin.site:8080/dazn2/index.m3u8?token=dc9dacd1df16ba26e20c572879068db02039539f-4705451640-1668478773-1668435573
+#EXTINF:-1,RMC Sport 1 HD
+http://srv-1-streaming.iptvin.site:8080/RMCSPORT1/video.m3u8?token=6ce65c065c56a7529e37d24c8a29072d768daad5-4705451640-1668478773-1668435573
+#EXTINF:-1,RMC Sport 2 HD
+http://srv-2-streaming.iptvin.site:8080/RMCSPORT2/video.m3u8?token=44c6c5f882c437827f2040d18203d2c140f2b499-4705451640-1668478773-1668435573
 #EXTINF:-1 tvg-logo="http://only4.tv/ch/6301.png" logo="https://antifriztv.com/storage/images/pack_logos/14e3069d6d1e963aab7ef33fb3216f68.png" channelId="1536" tvg-id="supertennis",Super Tennis HD
-http://srv-2-streaming.iptvin.site:8080/SuperTennisHD/video.m3u8?token=a927186966e2d647869efb85ad91487351979f67-4705451640-1660958597-1660915397
-#EXTINF:-1 tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/05/65f85ba2c6e3bb7faa7e8932c6459bb0.png" logo="http://www.cbcsport.az/assets/img/channel_logos_square_2.png" channelId="-1" tvg-id="cbc-sport",CBC Sport HD
-http://srv-3-streaming.iptvin.site:8080/CBC_Sport_HD/video.m3u8?token=f517a104cc848a616354ab84ebe086294b5ae73d-4705451640-1660958597-1660915397
+http://srv-2-streaming.iptvin.site:8080/SuperTennisHD/video.m3u8?token=6aac37d35cf14d43a903755cadd683bd764cffb9-4705451640-1668478773-1668435573
 #EXTINF:-1 tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/07/fa4ebe5ddcffad6998fb4dfa732d0fdc.png" logo="https://i.ibb.co/gFBS5Dw/Sport-Live-220x132-w-tr.png" channelId="-1",Sport Live
-http://srv-5-streaming.iptvin.site:34768/Sport_live/video.m3u8?token=977996dc50477b719c094f20341e9562e09273dd-4705451640-1660958597-1660915397
-#EXTINF:-1 tvg-logo="https://i115.fastpic.org/big/2021/0917/8b/d846c3c3325db72489ef7de334ec348b.png" logo="https://i115.fastpic.org/big/2021/0917/8c/f8e4a634fd42e020b084c5e0babf738c.png" channelId="1177" tvg-id="sky-sports-f1",Sky Sports F1 HD
-http://srv-3-streaming.iptvin.site:8080/SkySportsF1_hd/video.m3u8?token=950a5fc29843b14caa84bcc299c091a3c7934d16-4705451640-1660958597-1660915397
+http://srv-5-streaming.iptvin.site:34768/Sport_live/video.m3u8?token=b562ded6bfbc267efd1d99df79386f3a211a41a3-4705451640-1668478773-1668435573
+#EXTINF:-1 tvg-logo="https://i115.fastpic.org/big/2021/0823/5d/8ed207256d65fb85e26516a412bff05d.png" logo="http://s1.hostingkartinok.com/uploads/images/2021/08/b9308403b012cce99476f630be598f8f.png" channelId="-1" tvg-id="sky-sport-bl1",Sky Sport Bundesliga 1 HD
+http://srv-1-streaming.iptvin.site:8080/SkySportBundesliga/video.m3u8?token=4de17fb5ae83daaf85aba947b56eaf633dfafff0-4705451640-1668478773-1668435573
 #EXTINF:-1 tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/04/8a67d0fadc7991701b3c294d7f2313dc.png" logo="https://sport.news.am/static/news/b/2020/04/109932.jpg" channelId="4460" tvg-id="sky-sports-football",Sky Sports Football HD
-http://srv-3-streaming.iptvin.site:8080/SkySportFootballHD/video.m3u8?token=7c32e857840cc38d25657432e878db54a0580beb-4705451640-1660958597-1660915397
-#EXTINF:-1 tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/05/a925a4232974cd02437479af90172309.png" logo="http://s1.hostingkartinok.com/uploads/images/2022/05/4a99797da12fb505fafd19e78f682b9b.png" channelId="-1",Sky Sports Serie A HD
-http://srv-3-streaming.iptvin.site:8080/SkySportSerieA_FHD/video.m3u8?token=f9ac65c35a82091c79377d942f18457081e034e5-4705451640-1660958597-1660915397
+http://srv-6-streaming.iptvin.site:8080/SkySportsFootball/video.m3u8?token=9703edb89a82e8e8ec1b07541f506198f445cad9-4705451640-1668478773-1668435573
+#EXTINF:-1 tvg-logo="https://archive.org/services/img/SkySportsPremierLeague_201708?.jpg" logo="https://www.sportda.com/wp-content/uploads/2018/10/SKY-SPORTS-PREMIER-LEAGUE-HD.png" channelId="-1" tvg-id="sky-sports-apl",Sky Sports Premier League HD
+http://srv-2-streaming.iptvin.site:8080/SkySportsPL/video.m3u8?token=bdca7c3c06d33d24d2d84ae8f6b6f4f0ccdf58a6-4705451640-1668478773-1668435573
 #EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/tv-station-polsat-sport-premium-1-1472.png" logo="http://s1.hostingkartinok.com/uploads/images/2022/06/58518ea3f573ff28798a88069137606a.png" channelId="4394" tvg-id="polsat-sport-pr1",Polsat Sport Premium 1 HD
-http://srv-5-streaming.iptvin.site:34768/Polsat_Sport_1_HD/video.m3u8?token=40dca01772416348033fabed01bd1d34468c2163-4705451640-1660958597-1660915397
+http://srv-5-streaming.iptvin.site:34768/Polsat_Sport_1_HD/video.m3u8?token=9a02663baa12a72d03526b0f3df060a2e43aaa3f-4705451640-1668478773-1668435573
 #EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/tv-station-polsat-sport-premium-2-1473.png" logo="http://s1.hostingkartinok.com/uploads/images/2022/06/a8ffc3b09b07b788fd5c777d8ac244ce.png" channelId="4395" tvg-id="polsat-sport-pr2",Polsat Sport Premium 2 HD
-http://srv-4-streaming.iptvin.site:8080/Polsat_Sport_2/video.m3u8?token=3c1323bbaa4a0d48e5615af5863efa3fefe281d7-4705451640-1660958597-1660915397
+http://srv-4-streaming.iptvin.site:8080/Polsat_Sport_2/video.m3u8?token=d301ac13c979852a0c7f8bf01aeba83b944deadc-4705451640-1668478773-1668435573
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmqkuSQRmwqmTcyK3ikYvuy-hisOqzytb2KHYc72PSbMvqIGM0r-9425hnKp1ED1BOyUw&usqp=CAU.?png" logo="https://i.pinimg.com/originals/16/9d/dd/169dddc3fba8a4b5eadc2b6cd7b0a38c.png" channelId="2900",TNT HD
-http://srv-4-streaming.iptvin.site:8080/TNT_HD/video.m3u8?token=6feb54ccf5556c4cfdf306b8bcf0318e6da77bef-4705451640-1660958597-1660915397
-#EXTINF:-1 tvg-logo="https://i115.fastpic.org/big/2021/0924/35/7e68ddd1e0ac56d41093a47a39ec3935.png" logo="https://i115.fastpic.org/big/2021/0924/8d/5b91b9d17db11ca9ccd49923f2dd788d.png" channelId="-1",NBA Network HD (60 фпс)
-http://srv-4-streaming.iptvin.site:8080/nbatv_hd/video.m3u8?token=1bce5c078e082c73aef3853242b4d3a6eee51199-4705451640-1660958597-1660915397
+http://srv-4-streaming.iptvin.site:8080/TNT_HD/video.m3u8?token=0d8b220e090995e1807d49eabab5ac9e4fbe3b81-4705451640-1668478773-1668435573
+#EXTINF:-1 tvg-logo="https://i115.fastpic.org/big/2021/0924/35/7e68ddd1e0ac56d41093a47a39ec3935.png" logo="http://s1.hostingkartinok.com/uploads/images/2021/09/fbc6f10db56594cce8b5015c6611578e.png" channelId="-1",NBA Network HD (60 фпс)
+http://srv-4-streaming.iptvin.site:8080/nbatv_hd/video.m3u8?token=00b5ea5ae5144922082cfd4610690197ef331588-4705451640-1668478773-1668435573
 #EXTINF:-1 tvg-logo="https://www.ecured.cu/images/thumb/2/2f/Espn_logo.jpg/260px-Espn_logo.jpg" logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png" channelId="1263" tvg-name="ESPN",ESPN HD
-http://srv-4-streaming.iptvin.site:8080/espn_hd/video.m3u8?token=5633df06fc6fef37498b72b6edcd0b2e75315d64-4705451640-1660958597-1660915397
+http://srv-4-streaming.iptvin.site:8080/espn_hd/video.m3u8?token=a754af44e921430bd970060fda99cbea4d7207e2-4705451640-1668478773-1668435573
 #EXTINF:-1 tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/05/5045ef20fb5d4319956338320b8c5a92.png" logo="http://s1.hostingkartinok.com/uploads/images/2022/05/edd794f0985bb1840fc8c7f9f6e9a06b.png" channelId="-1",Next Level Sports HD
-http://srv-3-streaming.iptvin.site:8080/ELEVEN_SPORTS_NETWORK/video.m3u8?token=226ff2de060b6435fd0a20951d588cc6fe73ede1-4705451640-1660958597-1660915397
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-tsn1-188.png" logo="https://cdn.tvpassport.com/image/station/240x135/tsn1-2018.png" channelId="1416",TSN 1
-http://srv-3-streaming.iptvin.site:8080/TSN/video.m3u8?token=416eda432f0e59ab9ec406e392d21275f78bfeeb-4705451640-1660958597-1660915397
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-tsn2-189.png" logo="https://cdn.tvpassport.com/image/station/240x135/tsn2-2018.png" channelId="1395",TSN 2
-http://srv-4-streaming.iptvin.site:8080/TSN-2/index.m3u8?token=487879cc3111961100787d4cc3a46bf4c4e54fcb-4705451640-1660958597-1660915397
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-tsn3-190.png" logo="https://cdn.tvpassport.com/image/station/240x135/tsn3-2018.png" channelId="-1",TSN 3
-http://srv-6-streaming.iptvin.site:8080/TSN-3/index.m3u8?token=55178d8ba3d9e02c72c1208240a6c2b9f814d09f-4705451640-1660958597-1660915397
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-tsn4-191.png" logo="https://cdn.tvpassport.com/image/station/240x135/tsn4-2018.png" channelId="-1",TSN 4
-http://srv-4-streaming.iptvin.site:8080/TSN4/video.m3u8?token=586720a570ab51cab590dfa15dccbe9aefef8753-4705451640-1660958597-1660915397
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-tsn5-192.png" logo="https://cdn.tvpassport.com/image/station/240x135/tsn5-2018.png" channelId="-1",TSN 5
-http://srv-5-streaming.iptvin.site:34768/TSN5/video.m3u8?token=fe29691bef04c4cc20461d106645a105dac103bc-4705451640-1660958597-1660915397
+http://srv-3-streaming.iptvin.site:8080/ELEVEN_SPORTS_NETWORK/video.m3u8?token=0e41b0ce54787f645d9fb6c2727ea405fb6a1861-4705451640-1668478773-1668435573
+#EXTINF:-1 tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/09/7ef12654f6d0acae5f2540af4012fbc3.png" logo="http://s1.hostingkartinok.com/uploads/images/2022/09/4637f7d13804b8c68b72f781f7f29620.png" channelId="740",ESPN Classic HD
+http://srv-7-streaming.iptvin.site:8080/espn_classic/video.m3u8?token=376d49f9a02e2d9da1b9cdd878835a70423a9d1c-4705451640-1668478773-1668435573
+#EXTINF:-1 tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/10/bae54111b34aafe7054a9e1b6854578b.png" logo="http://s1.hostingkartinok.com/uploads/images/2022/10/d83bf2952a23a48edf49cd107cf924bf.png" channelId="2077",TVA Sports 1
+http://srv-2-streaming.iptvin.site:8080/TVA-Sports-1/video.m3u8?token=86d12aa6f3ed377b3598ad5c7b83831f63f86067-4705451640-1668478773-1668435573
+#EXTINF:-1 tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/10/86c6961e1b9360dc294c893bf3b9a0e8.png" logo="http://s1.hostingkartinok.com/uploads/images/2022/10/35e836282b9bd44f2af719d4d25d9531.png" channelId="-1",TVA Sports 2
+http://srv-2-streaming.iptvin.site:8080/TVA-Sports-2/video.m3u8?token=dd57a5e2c5c4144156237b8832b0119105307212-4705451640-1668478773-1668435573
+#EXTINF:-1 tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/10/f14215b32ca44d33fbd75e63e7c2103e.png" logo="http://s1.hostingkartinok.com/uploads/images/2022/10/0333456a8ea86cd4407367309c35ac5b.png" channelId="2122",RDS
+http://srv-1-streaming.iptvin.site:8080/RDS-1/video.m3u8?token=c526e7bda181a22a59a4082b1a2633d292876864-4705451640-1668478773-1668435573
+#EXTINF:-1 tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/10/f14215b32ca44d33fbd75e63e7c2103e.png" logo="http://s1.hostingkartinok.com/uploads/images/2022/10/0333456a8ea86cd4407367309c35ac5b.png" channelId="2123",RDS2
+http://srv-1-streaming.iptvin.site:8080/RDS-2/video.m3u8?token=a1e244eef137f64dcccb3baa25a3e584e3e1e563-4705451640-1668478773-1668435573
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-tsn1-188.png" logo="https://cdn.tvpassport.com/image/station/240x135/tsn1-2018.png" channelId="1416" tvg-id="tsn1-ca",TSN 1
+http://srv-3-streaming.iptvin.site:8080/TSN/video.m3u8?token=1fe52fa1972cacfe1e2ec6aab5f84fd0199418b2-4705451640-1668478773-1668435573
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-tsn2-189.png" logo="https://cdn.tvpassport.com/image/station/240x135/tsn2-2018.png" channelId="1395" tvg-id="tsn2-ca",TSN 2
+http://srv-4-streaming.iptvin.site:8080/TSN-2/index.m3u8?token=f295d33d44a12f661cac509951925fed3ab5eae5-4705451640-1668478773-1668435573
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-tsn3-190.png" logo="https://cdn.tvpassport.com/image/station/240x135/tsn3-2018.png" channelId="-1" tvg-id="tsn1-ca",TSN 3
+http://srv-6-streaming.iptvin.site:8080/TSN-3/index.m3u8?token=e73a5d055697a677e4b9fad49d4b6e7059f92fda-4705451640-1668478773-1668435573
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-tsn4-191.png" logo="https://cdn.tvpassport.com/image/station/240x135/tsn4-2018.png" channelId="-1" tvg-id="tsn4-ca",TSN 4
+http://srv-4-streaming.iptvin.site:8080/TSN4/video.m3u8?token=480f66ab37f2a401c3593fb04f440486cfc00c30-4705451640-1668478773-1668435573
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-tsn5-192.png" logo="https://cdn.tvpassport.com/image/station/240x135/tsn5-2018.png" channelId="-1" tvg-id="tsn5-ca",TSN 5
+http://srv-5-streaming.iptvin.site:34768/TSN5/video.m3u8?token=39ab39d308d5783c971f62b774c6183fad74098b-4705451640-1668478773-1668435573
